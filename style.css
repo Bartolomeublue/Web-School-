@@ -1,0 +1,134 @@
+body {
+    font-size: 5vw;
+    background-image: linear-gradient(#33333D,black);
+  margin: 0vw;
+  padding: 0px;
+  height: 100vh;
+}
+footer{
+  background-image: linear-gradient(black,#000000);
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  width: 100%;
+  font-size: 8vw;
+}
+img{
+  width: 100%;
+}
+.htm{
+  width: 100%;
+  height: 10vh;
+  font-family: 'Times New Roman', Times, serif;
+  background-image: linear-gradient(#FFB212,#B67B00);
+  text-align: center;
+  padding: 
+}
+.mini{
+  width: 8vw;
+  height: 10vh;
+  right: 0vw;
+  position: absolute;
+}
+video{
+  width: 100%;
+}
+.Aulas de html{
+  color: white;
+}
+#posi{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  position: absolute;
+  left: 0vw;
+}
+.css {
+  width: 100%;
+  height: 10vh;
+  font-family: 'Times New Roman', Times, serif;
+  background-image: linear-gradient(#0483ED, #0B4A7F);
+  text-align: center;
+}
+
+
+.javacript {
+  width: 100%;
+  height: 5vh;
+  font-family: 'Times New Roman', Times, serif;
+  background-image: linear-gradient(#FFFD0B, #A3A209);
+  text-align: center;
+}
+#gef{
+ 
+  color: white;
+  width: 100%;
+  font-size: 8vw;
+}
+button{
+  font-size: 8vw;
+  position: absolute;
+ right: 2vw;
+ 
+}
+
+.menu-toggle {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin-right: 20px;
+}
+
+.menu-toggle span {
+  background-color: #fff;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background-color 0.3s ease;
+  width: 25px;
+}
+
+.menu-toggle span:first-child {
+  transform: translateY(-6px);
+}
+
+.menu-toggle span:nth-child(2) {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.menu-toggle span:last-child {
+  transform: translateY(6px);
+}
+
+.menu {
+  background-color: #333;
+  display: none;
+  height: 100vh;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 60px;
+  width: 100%;
+}
+
+.menu li {
+  text-align: center;
+  padding: 10px;
+}
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  margin-top: 80px;
+  text-align: center;
+  padding: 20px;
+}
+video{
+        width: 100%;
+        height: 20vh;/aula.mp4
+}
